@@ -24,6 +24,7 @@ To start Grunt tasks type:
 ```bash
 cd your_project_folder
 ```
+then
 ```bash
 grunt
 ```
