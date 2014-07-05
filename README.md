@@ -20,8 +20,7 @@ $ npm install -g yo
 ```
 
 ### Yeoman Generators
-
-Yeoman travels light. He didn't pack any generators when he moved in. You can think of a generator like a plug-in. You get to choose what type of application you wish to create, such as a Backbone application or even a Chrome extension.
+This generator creates folder structure to work with Compass and Bootstrap. Also creates Gruntfile with such tasks as "Compile Sass/Compass" and "LiveReload"
 
 To install generator-bootstrap-compass from npm, run:
 
