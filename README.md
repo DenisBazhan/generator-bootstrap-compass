@@ -38,6 +38,16 @@ your_project_folder/
 |  |  |  |-main.scss
 ```
 
+main.scss have following imports:
+```bash
+@import "variables";
+@import "bootstrap";
+@import "compass/css3";
+```
+Only main.scss will be compiled into main.css.
+If you don't want to use some bootstrap components, you can at any time change imports in _bootstrap.scss
+You can also redefine bootstrap variables in _variables.scss
+
 ## Getting Started
 
 To install generator-bootstrap-compass from npm, run:
