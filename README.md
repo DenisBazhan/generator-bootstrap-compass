@@ -19,10 +19,16 @@ your_project_folder/
 |  |-src/
 |  |  |-fonts/
 |  |  |  |-bootstrap/
+|  |  |  |  |-... bootstrap fonts components
 |  |  |-javascripts/
 |  |  |  |-bootstrap/
+|  |  |  |  |-... bootstrap js components
+|  |  |  |-bootstrap.js
+|  |  |  |-bootstrap-sprockets.js
 |  |  |-stylesheets/
 |  |  |  |-bootstrap/
+|  |  |  |  |-mixins
+|  |  |  |  |-... bootstrap scss components
 |  |  |  |-pages/
 |  |  |  |-_bootstrap.scss
 |  |  |  |-_bootstrap-compass.scss
