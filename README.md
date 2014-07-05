@@ -1,4 +1,4 @@
-# generator-bootstrap-compass [![Build Status](https://secure.travis-ci.org/ok2ju/generator-bootstrap-compass.png?branch=master)](https://travis-ci.org/ok2ju/generator-bootstrap-compass)
+# generator-bootstrap-compass 
 
 > [Yeoman](http://yeoman.io) generator
 
