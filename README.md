@@ -45,7 +45,7 @@ main.scss have following imports:
 @import "compass/css3";
 ```
 Only main.scss will be compiled into main.css.
-If you don't want to use some bootstrap components, you can at any time change imports in _bootstrap.scss
+If you don't want to use some bootstrap components, you can at any time change imports in _bootstrap.scss.
 You can also redefine bootstrap variables in _variables.scss
 
 ## Getting Started
