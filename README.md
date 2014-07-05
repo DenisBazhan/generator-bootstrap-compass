@@ -19,6 +19,15 @@ Finally, initiate the generator:
 $ yo bootstrap-compass
 ```
 
+To start Grunt tasks type:
+
+```bash
+cd your_project_folder
+```
+```bash
+grunt
+```
+
 
 
 ## License
