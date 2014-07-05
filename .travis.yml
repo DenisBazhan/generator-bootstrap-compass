@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - '0.10'
+before_install:
+  - currentfolder=${PWD##*/}
+  - if [ "$currentfolder" != 'generator-bootstrap-compass' ]; then cd .. && eval "mv $currentfolder generator-bootstrap-compass" && cd generator-bootstrap-compass; fi
+
